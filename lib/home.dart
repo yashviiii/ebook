@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
                                     title: "Z Library", url: 'https://1lib.in/')));
                       },
                       text: 'Z Library',
-                      image: 'assets/books.jpg',
+                      image: 'assets/zlib.jpg',
                       color1: Colors.blue,
                       color2: Colors.white,
                   ),
